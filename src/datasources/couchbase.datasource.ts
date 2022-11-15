@@ -8,8 +8,7 @@ const config = {
   port: 8091,
   n1qlport: 8093,
   connectionTimeout: 20000,
-  operationTimeout: 15000,
-  database: 'codetest'
+  operationTimeout: 15000
 };
 
 // Observe application's life cycle to disconnect the datasource when
