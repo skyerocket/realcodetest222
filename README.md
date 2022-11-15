@@ -10,5 +10,7 @@ Add auth - test
 
 Graphql - test
 
-Docker and host - test
-# realcodetest222
+host - test
+
+
+please close vpn for docker pull from git

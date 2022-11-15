@@ -1,0 +1,5 @@
+[
+{ "guest_name": "John", "contact_info": { "mobile": 88775533}, "expected_arrival": "202211302030", "table_size": 3, "status": "booked" },
+{ "guest_name": "Doe", "contact_info": { "address": "a place"}, "expected_arrival": "202211281830", "table_size": 10, "status": "canceled" },
+{ "guest_name": "Lee", "contact_info": {"mobile": 99332245}, "expected_arrival": "20221110630", "table_size": 1, "status": "completed" }
+]
